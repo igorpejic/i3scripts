@@ -112,6 +112,9 @@ WINDOW_ICONS = {
     'yelp': fa.icons['code'],
     'zenity': fa.icons['window-maximize'],
     'zoom': fa.icons['comment'],
+    'brave-browser': fa.icons['chrome'],  # Brave browser icon
+    'cursor': fa.icons['i-cursor'],        # Cursor DB icon
+    'windsurf': fa.icons['window-maximize'],        # Generic window icon for Windsurf
 }
 
 # This icon is used for any application not in the list above
